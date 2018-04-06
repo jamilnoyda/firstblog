@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background-image"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"a",
+				"args_len"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"fac",
+				"fact_gen"
+			],
+			[
+				"fa",
+				"fact_gen"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"d",
+				"dog"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"list",
+				"list_1"
+			],
+			[
+				"li",
+				"li3"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"meet",
+				"meet_id"
+			],
+			[
+				"can",
+				"cancelSlot"
+			],
+			[
+				"sa",
+				"salayr"
+			],
+			[
+				"Me",
+				"mem_id"
+			],
+			[
+				"cu",
+				"count"
+			],
+			[
+				"mem",
+				"member_id"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"ad_",
+				"ad_view"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"view",
+				"viewMembers"
+			],
+			[
+				"ad",
+				"admin_menu_input"
+			],
+			[
+				"isvalid",
+				"isValidCustomer_reuslt"
+			],
+			[
+				"isVali",
+				"isValidCustomer_reuslt"
+			],
+			[
+				"cus",
+				"customers"
+			],
+			[
+				"cust",
+				"cust_name_update"
+			],
+			[
+				"cust_name",
+				"cust_name_update"
+			],
+			[
+				"inp",
+				"raw_input"
+			],
+			[
+				"upa",
+				"update_slot"
+			],
+			[
+				"in",
+				"insert_slot"
+			],
+			[
+				"mee",
+				"meeting_id"
+			],
+			[
+				"inset",
+				"INSERT"
+			],
+			[
+				"ta",
+				"tablename"
+			],
+			[
+				"temp_",
+				"temp_user"
+			],
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"temp",
+				"temp_pass"
+			],
+			[
+				"ge",
+				"get_password"
+			],
+			[
+				"te",
+				"temp_user"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"adm",
+				"admin_username"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padding-to",
+				"padding-top"
+			],
+			[
+				"PA",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-bottom-width"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"fot-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"oc",
+				"opacity"
+			],
+			[
+				"pro",
+				"product1"
+			],
+			[
+				"pr",
+				"product3"
+			],
+			[
+				"pading",
+				"padding-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"slid",
+				"solid"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-bottom-width"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"MARGIN",
+				"margin-bottom"
+			],
+			[
+				"bg",
+				"background-image"
+			],
+			[
+				"PADD",
+				"padding-left"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"bor-radi",
+				"border-bottom-left-radius"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"banner",
+				"banner-img"
+			],
+			[
+				"clo",
+				"collpase"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"wih",
+				"width"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bg-c",
+				"background-color"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "polls/templates/polls/results.html",
+			"settings":
+			{
+				"buffer_size": 267,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nfrom django.conf.urls import url\n\n\nfrom . import views\n# urlpatterns = [\n#     url(r'^$', views.index, name='index'),\n    \n#     url(r'^(?P<question_id>[0-9]+)/$', views.detail, name='detail'),\n#     url(r'^(?P<question_id>[0-9]+)/results/$', views.results, name='results'),\n#     url(r'^(?P<question_id>[0-9]+)/vote/$', views.vote, name='vote'),\n#     url(r'^specifics/(?P<question_id>[0-9]+)/$', views.detail, name='detail'),\n\n# ]\napp_name = 'polls'\n\n\nurlpatterns = [\n    url(r'^$', views.index, name='index'),\n    url(r'^(?P<question_id>[0-9]+)/$', views.detail, name='detail'),\n    url(r'^(?P<question_id>[0-9]+)/results/$', views.results, name='results'),\n    url(r'^(?P<question_id>[0-9]+)/vote/$', views.vote, name='vote'),\n\n    # url(r'^$', views.IndexView.as_view(), name='index'),\n    # url(r'^(?P<pk>[0-9]+)/$', views.DetailView.as_view(), name='detail'),\n    # url(r'^(?P<pk>[0-9]+)/results/$', views.ResultsView.as_view(), name='results'),\n    # url(r'^(?P<question_id>[0-9]+)/vote/$', views.vote, name='vote'),\n]\n\n\n# from django.conf.urls import url\n\n# from . import views\n\n# urlpatterns = [\n#     url(r'^$', views.index, name='index'),\n# ]\n\t\n\n",
+			"file": "polls/urls.py",
+			"file_size": 1158,
+			"file_write_time": 131673775099194490,
+			"settings":
+			{
+				"buffer_size": 1159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3514,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{% block branding %}\n<h1 id=\"site-name\"><a href=\"{% url 'admin:index' %}\">Polls Administration</a></h1>\n{% endblock %}\n",
+			"file": "templates/admin/base_site.html",
+			"file_size": 119,
+			"file_write_time": 131673965536909639,
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/admin.py",
+			"settings":
+			{
+				"buffer_size": 547,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/static/polls/style.css",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!-- polls/templates/polls/detail.html\n<h1>{{ question.question_text }}</h1>\n<ul>\n{% for choice in question.choice_set.all %}\n    <li>{{ choice.choice_text }}</li>\n{% endfor %}\n</ul>\n\n -->\n<h1>{{ question.question_text }}</h1>\n\n{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}\n\n<form action=\"{% url 'polls:vote' question.id %}\" method=\"post\">\n{% csrf_token %}\n{% for choice in question.choice_set.all %}\n    <input type=\"radio\" name=\"choice\" id=\"choice{{ forloop.counter }}\" value=\"{{ choice.id }}\" />\n    <label for=\"choice{{ forloop.counter }}\">{{ choice.choice_text }}</label><br />\n{% endfor %}\n<input type=\"submit\" value=\"Vote\" />\t\n</form>",
+			"file": "polls/templates/polls/detail.html",
+			"file_size": 671,
+			"file_write_time": 131673080788654481,
+			"settings":
+			{
+				"buffer_size": 672,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/views.py",
+			"settings":
+			{
+				"buffer_size": 3328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/models.py",
+			"settings":
+			{
+				"buffer_size": 812,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "polls/templates/polls/index.html",
+			"settings":
+			{
+				"buffer_size": 472,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jamil/newproject/mysite"
+	],
+	"file_history":
+	[
+		"/home/jamil/newproject/mysite/templates/polls/base_site.html",
+		"/home/jamil/newproject/mysite/polls/static/polls/style.css",
+		"/home/jamil/newproject/mysite/polls/static/style.css",
+		"/home/jamil/newproject/mysite/polls/urls.py",
+		"/home/jamil/newproject/mysite/mysite/urls.py",
+		"/home/jamil/newproject/mysite/polls/templates/polls/detail.html~",
+		"/home/jamil/newproject/mysite/polls/templates/polls/detail.html",
+		"/home/jamil/newproject/mysite/polls/templates/polls/index.html",
+		"/home/jamil/newproject/mysite/polls/views.py",
+		"/home/jamil/newproject/mysite/polls/templates/polls/results.html",
+		"/home/jamil/newproject/mysite/polls/models.py",
+		"/home/jamil/newproject/mysite/mysite/settings.py",
+		"/home/jamil/tasks/day1/task2.py",
+		"/home/jamil/tasks/day1/task3.1.py",
+		"/home/jamil/tasks/day1/task1.py",
+		"/home/jamil/newproject/mysite/polls/tests.py",
+		"/home/jamil/newproject/mysite/manage.py",
+		"/home/jamil/newproject/mysite/polls/admin.py",
+		"/home/jamil/newproject/mysite/polls/apps.py",
+		"/home/jamil/newproject/mysite/polls/__init__.py",
+		"/home/jamil/tasks/day1/task3.py",
+		"/home/jamil/newproject/mysite/mysite/wsgi.py",
+		"/home/jamil/newproject/mysite/mysite/__init__.py",
+		"/home/jamil/program/pro2.py",
+		"/home/jamil/program/pro1.py",
+		"/home/jamil/slot_prov3/oops.py",
+		"/home/jamil/slot_prov3/oopstesting.py",
+		"/home/jamil/slot_prov3/util.py",
+		"/home/jamil/slot_prov3/customer/controller.py",
+		"/home/jamil/slot_prov3/customer/model.py",
+		"/home/jamil/slot_prov3/customer/view.py",
+		"/home/jamil/slot_prov3/controller.py",
+		"/home/jamil/slot_prov3/test_pg.py",
+		"/home/jamil/slot_prov3/baz.py",
+		"/home/jamil/slot_prov3/monkey2.py",
+		"/home/jamil/slot_prov3/genexample.py",
+		"/home/jamil/slot_prov3/fact.py",
+		"/home/jamil/slot_prov3/admin/ad_controller.py",
+		"/home/jamil/slot_prov3/admin/ad_view.py",
+		"/home/jamil/slot_prov3/admin/ad_model.py",
+		"/home/jamil/slot_prov2/controller.py",
+		"/home/jamil/slot_prov2/admin/ad_view.py",
+		"/home/jamil/slot_prov2/admin/ad_controller.py",
+		"/home/jamil/slot_prov2/admin/ad_model.py",
+		"/home/jamil/slot_prov2/customer/view.py",
+		"/home/jamil/slot_prov2/admin/ad_view.pyc",
+		"/home/jamil/slot_prov2/customer/controller.py",
+		"/home/jamil/slot_prov2/customer/model.py",
+		"/home/jamil/slot_prov2/view.py",
+		"/home/jamil/slot_prov2/model.py",
+		"/home/jamil/slot_prov2/ostemp.py",
+		"/home/jamil/slot_prov2/temp.py",
+		"/home/jamil/slot_pro/pract.py",
+		"/home/jamil/slot_pro/sql.py",
+		"/home/jamil/slot_pro/customer.py",
+		"/home/jamil/slot_pro/script.py",
+		"/home/jamil/Desktop/online-shop/assets/js/custom.js",
+		"/home/jamil/Desktop/online-shop/assets/css/docs.css",
+		"/home/jamil/Desktop/online-shop/index.html",
+		"/home/jamil/Downloads/Final demo/homepage.html",
+		"/home/jamil/Desktop/jquery_task/index.html",
+		"/home/jamil/Desktop/bootstrap_demo/index.html",
+		"/home/jamil/Desktop/bootstrap_demo/js/custom.js",
+		"/home/jamil/Desktop/bootstrap_demo/css/docs.css",
+		"/home/jamil/htmldemo/index.html",
+		"/home/jamil/htmldemo/assets/css/docs.css",
+		"/home/jamil/htmldemo/assets/js/custom.js",
+		"/home/jamil/Desktop/temp2.html",
+		"/home/jamil/htmldemo/assets/css/style.css",
+		"/home/jamil/Desktop/python/ClassDemo.py",
+		"/home/jamil/Desktop/demo2/css/style.css",
+		"/home/jamil/Desktop/demo2/index.html",
+		"/home/jamil/Desktop/grid/css/style.css",
+		"/home/jamil/Desktop/grid/index.html",
+		"/home/jamil/Desktop/main grid/index.html",
+		"/home/jamil/Desktop/third.py",
+		"/home/jamil/Desktop/second.py",
+		"/home/jamil/Desktop/fibb.py",
+		"/home/jamil/Desktop/bootstrap-3.3_nav/index.html",
+		"/home/jamil/Desktop/mysite/templates/webapp/includes/a.html",
+		"/home/jamil/Desktop/mysite/webapp/templates/webapp/header.html",
+		"/home/jamil/Desktop/mysite/webapp/views (copy).py",
+		"/home/jamil/Desktop/mysite/mysite/settings.py",
+		"/home/jamil/Desktop/mysite/webapp/urls.py",
+		"/home/jamil/Desktop/mysite/mysite/urls.py",
+		"/home/jamil/Desktop/mysite/webapp/views.py",
+		"/home/jamil/Desktop/mysite/webapp/templates/webapp/home.html",
+		"/home/jamil/Desktop/mysite/webapp/templates/webapp/index.html",
+		"/home/jamil/Desktop/mysite/personal/views.py",
+		"/home/jamil/Desktop/mysite/personal/urls.py",
+		"/home/jamil/Desktop/mysite/webapp/tests.py",
+		"/home/jamil/Desktop/mysite/webapp/models.py",
+		"/home/jamil/Desktop/mysite/manage.py",
+		"/home/jamil/Desktop/mysite/webapp/views",
+		"/home/jamil/Desktop/mysite/polls/urls.py",
+		"/home/jamil/Desktop/mysite/polls/views.py",
+		"/home/jamil/Desktop/jamil/index.html",
+		"/home/jamil/Desktop/jamil/intex.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"false",
+			">",
+			"No Question matches the given query.\n\n",
+			"vote",
+			"AUTHENTICATION_BACKENDS"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "polls/templates/polls/results.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "polls/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3336,
+								3336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/admin/base_site.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "polls/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "polls/static/polls/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "polls/templates/polls/detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "polls/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2828,
+								2828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1038.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "polls/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "polls/templates/polls/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
