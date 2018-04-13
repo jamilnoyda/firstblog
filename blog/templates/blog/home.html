@@ -3,7 +3,10 @@
 {% block content %}
   {% for post in object_list %}
     <div class="post-entry">
-      <h2><a href="{%url 'blog:post_detail' post.id%}">{{ post.title }}</a></h2>
+      <tr><td><h2><a href="{%url 'blog:post_detail' post.id%}">{{ post.title }}</a></td>
+       <td><a href="{% url 'blog:post_update' post.id %}">update</a></td>
+       <td><a href="{% url 'blog:post_delete' post.id %}">delete</a></h2></td></tr>
+
 
       <p>{{ post.body }}</p>
     </div>

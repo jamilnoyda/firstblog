@@ -23,11 +23,11 @@ from django.utils import timezone
 #     def __str__(self):
 #         return self.title
 class Post(models.Model):
+    
+    created_date = models.DateTimeField(default=timezone.now)
     title = models.CharField(max_length=200)
-    author = models.ForeignKey(
-        'auth.User',
-        on_delete=models.CASCADE,
-    )
+    author = models.ForeignKey('auth.User',on_delete=models.CASCADE)
+    author  = models.CharField(max_length = 200)
     text = models.TextField()
 
     def __str__(self):

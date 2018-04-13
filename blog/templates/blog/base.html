@@ -1,17 +1,31 @@
-{% load static %}
+{% load static   %}
 <html>
   <head>
     <title>Django blog</title>
+    <link rel="stylesheet" href="{% static 'blog/css/style.css' %}">
+          <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+           <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+           <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <header>
-          <link rel="stylesheet" href="{% static 'blog/css/style.css' %}">
+    
+          
+        
 
-      <h1><a href="/">Django blog</a></h1>
-    </header>
-    <div class="container">
+       <div class="page-header">
+            <a href="{% url 'blog:post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
+          </div>
+            <header>
+            <h1><a href="{% url 'blog:home' %}">Django blog</a></h1>
+      
+
+          </header>
+    <div class="content container">
+            <div class="row">
+                <div class="col-md-8">
       {% block content %}
       {% endblock content %}
     </div>
+  </div>
   </body>
 </html>
