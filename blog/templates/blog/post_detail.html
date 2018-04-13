@@ -1,0 +1,9 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+  <div class="post-entry">
+    <h2>{{ post_obj.title }}</h2>
+    <p>{{ post_obj.text }}</p>
+  </div>
+
+{% endblock content %}

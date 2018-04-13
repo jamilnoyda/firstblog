@@ -43,8 +43,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'polls.apps.PollsConfig',
-    
     'blog',
+    'login',
+
 
 
 ]
@@ -64,7 +65,8 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [ ],
+
 
         'APP_DIRS': True,
         'OPTIONS': {
@@ -102,7 +104,17 @@ DATABASES = {
     # },
 
     
+
 }
+
+# DATABASES = {
+#     'default': {
+#     'ENGINE':   'django.db.backends.oracle',
+#     'NAME':     'localhost/orcl',
+#     'USER':     'pythonhol',
+#     'PASSWORD': 'welcome',
+#   }
+# }
 
 
 
